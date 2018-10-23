@@ -20,5 +20,5 @@ height:10%;background-color:#838487;overflow:hidden;text-align:center;border:sol
 
 }
 .border{
-	border:solid #42d9f4 3px;background;background-color:grey;opacity:0.5;
+	border:solid #42d9f4 3px;background;background: rgba(0, 0, 0, 0.4);
 }
