@@ -14,11 +14,11 @@ height:5.5%;background-color:white;overflow:hidden;
 }
 
 .top a:hover{
-	background-color:#ddd;color:black;
+	background-color:#ddd;color:grey;
 	
 }
 .head{
-height:10%;background-color:white;overflow:hidden;text-align:center;border:solid black 3px
+height:10%;background-color:black;overflow:hidden;text-align:center;border:solid black 3px
 
 }
 .border{
