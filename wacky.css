@@ -5,7 +5,7 @@ background-image: url("https://66.media.tumblr.com/50947c77e9591db6fa6e294540d81
 }
 
 .top{
-height:5.5%;background-color:#333;overflow:hidden;
+height:5.5%;background-color:white;overflow:hidden;
 }
 
 .top a{
@@ -22,7 +22,7 @@ height:10%;background-color:white;overflow:hidden;text-align:center;border:solid
 
 }
 .border{
-	border:solid grey 3px;background;background-color:white;
+	border:solid grey 3px;background;background-color:black;
 }
 .marginleft{
 
