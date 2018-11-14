@@ -5,11 +5,11 @@ background-image: url("https://66.media.tumblr.com/50947c77e9591db6fa6e294540d81
 }
 
 .top{
-height:5.5%;background-color:#cccccc;overflow:hidden;
+height:5.5%;background-color:white;overflow:hidden;
 }
 
 .top a{
-	float:left;display:left;color:white;text-align:center;padding:14px 16px;text-decoration:none
+	float:left;display:left;color:#cccccc;text-align:center;padding:14px 16px;text-decoration:none
 	
 }
 
